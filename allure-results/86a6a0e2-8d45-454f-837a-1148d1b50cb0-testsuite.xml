@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1737741113790' stop='1737741125807'>
+    <name>Add Item to Cart</name>
+    <title>Add Item to Cart</title>
+    <test-cases>
+        <test-case start='1737741113797' status='passed' stop='1737741121687'>
+            <name>Add Item to Cart</name>
+            <title>Add Item to Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1737741121697' status='passed' stop='1737741123705'>
+            <name>Cart Page Verification</name>
+            <title>Cart Page Verification</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1737741123715' status='passed' stop='1737741125807'>
+            <name>Remove Item from Cart</name>
+            <title>Remove Item from Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
