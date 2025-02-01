@@ -1,4 +1,5 @@
 Feature: Checkout Process
+
 @demo1
 Scenario: Successful Checkout
         Given a user visits the login page
